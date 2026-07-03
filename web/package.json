@@ -1,5 +1,5 @@
 {
-  "name": "@APPNAME/web",
+  "name": "@mcp-proof/web",
   "private": true,
   "type": "module",
   "scripts": {
