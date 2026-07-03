@@ -2,14 +2,14 @@ import { GameShell, GameTopbar, GameAuth } from "@freegamestore/games";
 
 export default function App() {
   return (
-    <GameShell topbar={<GameTopbar title="MCP Proof" score={0} />}>
+    <GameShell topbar={<GameTopbar title="mcp-proof" score={0} />}>
       <GameAuth />
       <div className="flex flex-col items-center justify-center h-full gap-4">
         <h1
           className="text-3xl font-bold"
           style={{ fontFamily: "Fraunces, serif" }}
         >
-          MCP Proof
+          mcp-proof
         </h1>
         <p style={{ color: "var(--muted)" }}>
           Edit <code>src/App.tsx</code> to build your game.

@@ -41,9 +41,9 @@ export default defineConfig({
       // field passes through to the emitted manifest.webmanifest; browsers
       // ignore unknown members.
       manifest: {
-        name: "MCP Proof",
-        short_name: "MCP Proof",
-        description: "MCP Proof — free forever",
+        name: "mcp-proof",
+        short_name: "mcp-proof",
+        description: "mcp-proof — free forever",
         start_url: "/",
         display: "standalone",
         background_color: "#0f0f0f",
