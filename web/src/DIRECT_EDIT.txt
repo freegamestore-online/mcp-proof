@@ -1,0 +1,2 @@
+This file was written directly via update_files, NOT by the VibeCode agent.
+If edit_game re-imports it into the session, the round-trip works.
